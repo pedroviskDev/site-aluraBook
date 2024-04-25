@@ -1,2 +1,2 @@
 # site-aluraBook
-Projeto de responsividade ultinzando a técnica mobile-first
+Projeto de responsividade utilinzando a técnica mobile-first
